@@ -1,7 +1,7 @@
 #write your code here
 
 def countdown(num)
-  number = 0
+  number = num
   while number <num
   
     puts "#{number} SECOND(S)!"
